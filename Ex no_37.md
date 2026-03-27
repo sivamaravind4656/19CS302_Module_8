@@ -64,8 +64,8 @@ To write a program to print the sum and difference of the given two integers .
 ```
 /*
 C program to find the smallest among three numbers using Structure.
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: ARAVINDHAN K A P
+RegisterNumber:  212222063001
 */
 #include <stdio.h> 
  
