@@ -39,8 +39,8 @@ To determine a positive integer denoting , do the following: If  41<=n <=49 prin
 ```
 /*
 C program to find the smallest among three numbers using Structure.
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: ARAVINDHAN K A P
+RegisterNumber:  212222063001
 */
 #include <stdio.h>
 
